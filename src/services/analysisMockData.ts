@@ -1,0 +1,3 @@
+import { CENTRAL_ANALYSIS_INCIDENTS } from '../data/centralIncidents';
+
+export const INCIDENTS_ANALYSIS_DATA = CENTRAL_ANALYSIS_INCIDENTS;
